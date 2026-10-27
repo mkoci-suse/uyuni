@@ -73,3 +73,4 @@
 - features/secondary/srv_diskcheck.feature
 
 ## Secondary features END ##
+- features/secondary/system_upgrade_entitlement.feature
