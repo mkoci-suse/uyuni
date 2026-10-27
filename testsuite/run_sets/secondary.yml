@@ -75,4 +75,4 @@
 - features/secondary/srv_diskcheck.feature
 
 ## Secondary features END ##
-- features/secondary/fistron_system_upgradeentitlement.feature
+- features/secondary/system_upgrade_entitlement.feature
