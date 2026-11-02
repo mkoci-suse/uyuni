@@ -10,3 +10,4 @@
 - features/build_validation/reposync/srv_sync_all_products.feature
 
 ## Product synchronization features END ###
+- features/build_validation/add_MU_repositories/opensuse161.feature
